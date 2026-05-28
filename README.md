@@ -40,7 +40,7 @@ Visit the central hub: **[rexd.space](https://rexd.space)**
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/hello-type/Shivalaya.git
+    git clone https://github.com/hello-type/Shivalay.git
     ```
 2.  Open `index.html` in any modern web browser.
 3.  Enjoy the site!
